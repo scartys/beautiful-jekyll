@@ -39,28 +39,28 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  name: Kravchenko Vitaly
+  email: "vk.kasten@gmail.com"
+  facebook: yourname  # eg. 100001169578933
+  github: yourname    # eg. 
+  twitter: yourname   # eg. 
+  google-plus: +yourname   # eg. 
+  linkedin: yourname  # eg. 
+  xing: yourname      # eg. 
+ 
+  snapchat: yourname  # eg. 
+  instagram: yourname # eg. 
+  youtube: yourlink   # eg. 
+  spotify: yourname   # eg. 
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   linkedin: false
   xing: false
   stackoverflow: false
@@ -74,7 +74,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
