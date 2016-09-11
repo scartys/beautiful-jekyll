@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Когда-нибудь здесь появится моя автобиография.
 ---
 
 Меня зовут Виталий Кравченко.
