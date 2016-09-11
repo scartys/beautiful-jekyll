@@ -23,10 +23,7 @@ layout: default
     Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
-    <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 500 }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
+    
 
     <div class="blog-tags">
       Tags: 
