@@ -41,17 +41,15 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Kravchenko Vitaly
   email: "vk.kasten@gmail.com"
-  facebook: page.for.all.my.dear.friends
-  github: yourname    # eg. 
-  twitter: yourname   # eg. 
-  google-plus: +yourname   # eg. 
-  linkedin: yourname  # eg. 
-  xing: yourname      # eg. 
- 
-  snapchat: yourname  # eg. 
-  instagram: yourname # eg. 
-  youtube: yourlink   # eg. 
-  spotify: yourname   # eg. 
+  facebook: all.what.you.want.to.know.about.me
+  github: yourname     
+  twitter: yourname    
+  google-plus: +yourname    
+  xing: yourname       
+  snapchat: yourname  
+  instagram: yourname  
+  youtube: yourlink    
+  spotify: yourname   
 
 # Select which links to show in the footer
 footer-links-active:
@@ -78,7 +76,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "scartys.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -91,7 +89,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Irkutsk"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -118,7 +116,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+link-tags: true
 
 # Exclude these files from production site
 exclude:
